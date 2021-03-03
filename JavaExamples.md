@@ -2,7 +2,7 @@
 
 - [x] **6 Kyu - Your order, please** 
 
-### *Details: * 
+### Details:  
 
 Your task is to sort a given string. Each word in the string will contain a single number. This number is the position the word should have in the result.
 
@@ -10,7 +10,7 @@ Note: Numbers can be from 1 to 9. So 1 will be the first word (not 0).
 
 If the input string is empty, return an empty string. The words in the input String will only contain valid consecutive numbers.
 
-### *Solution: *
+### Solution: 
 
 ```
   import java.util.*;
@@ -51,7 +51,7 @@ If the input string is empty, return an empty string. The words in the input Str
 
 - [x] **7 Kyu - Alternate capitalization** 
 
-### *Details: * 
+### Details:  
 
 Given a string, capitalize the letters that occupy even indexes and odd indexes separately, and return as shown below. Index 0 will be considered even.
 
@@ -61,7 +61,7 @@ The input will be a lowercase string with no spaces.
 
 Good luck!
 
-### *Solution: *
+### Solution: 
 
 ```
   class Solution{
@@ -95,11 +95,11 @@ Good luck!
 
 - [x] **6 Kyu - Sort the odd** 
 
-### *Details: * 
+### Details:  
 
 You will be given an array of numbers. You have to sort the odd numbers in ascending order while leaving the even numbers at their original positions.
 
-### *Solution: *
+### Solution: 
 
 ```
   import java.util.*;
@@ -133,7 +133,7 @@ You will be given an array of numbers. You have to sort the odd numbers in ascen
 
 - [x] **7 Kyu - Money, Money, Money** 
 
-### *Details: * 
+### Details:  
 
 Mr. Scrooge has a sum of money 'P' that he wants to invest. Before he does, he wants to know how many years 'Y' this sum 'P' has to be kept in the bank in order for it to amount to a desired sum of money 'D'.
 
@@ -141,7 +141,7 @@ The sum is kept for 'Y' years in the bank where interest 'I' is paid yearly. Aft
 
 Note to Tax: not the invested principal is taxed, but only the year's accrued interest
 
-### *Solution: *
+### Solution: 
 
 ```
   public class Money {
@@ -166,13 +166,13 @@ Note to Tax: not the invested principal is taxed, but only the year's accrued in
 
 - [x] **7 Kyu - Factorial** 
 
-### *Details: * 
+### Details: 
 
 In mathematics, the factorial of a non-negative integer n, denoted by n!, is the product of all positive integers less than or equal to n. For example: 5! = 5 * 4 * 3 * 2 * 1 = 120. By convention the value of 0! is 1.
 
 Write a function to calculate factorial for a given input. If input is below 0 or above 12 throw an exception of type ArgumentOutOfRangeException (C#) or IllegalArgumentException (Java) or RangeException (PHP) or throw a RangeError (JavaScript) or ValueError (Python) or return -1 (C).
 
-### *Solution: *
+### Solution: 
 
 ```
   public class Factorial {
