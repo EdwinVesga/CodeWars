@@ -1,6 +1,6 @@
 # Javascript Codewars Kata Solutions
 
-### 5 Kyu- Diophantine Equation
+### 5 Kyu - Diophantine Equation
 
 #### Details:  
 
@@ -38,7 +38,7 @@ If there is no solution return [ ] or "[ ]" or "". (See "RUN SAMPLE TESTS" for e
   
 ```
 
-### 6 Kyu- Street Fighter 2 - Character Selection
+### 6 Kyu - Street Fighter 2 - Character Selection
 
 #### Details:  
 
@@ -125,7 +125,7 @@ You'll have to simulate the video game's character selection screen behaviour, m
   
 ```
 
-### 5 Kyu- MergeSort "merge" function
+### 5 Kyu - MergeSort "merge" function
 
 #### Details:  
 
@@ -169,7 +169,7 @@ mergesorted([1],[2, 3]) //should: [1,2,3]
 
 ```
 
-### 5 Kyu- Tail recursion with trampoline
+### 5 Kyu - Tail recursion with trampoline
 
 #### Details:  
 
@@ -229,7 +229,7 @@ Besides, functional programming avoids declaring variables, so functions do not 
 
 ```
 
-### 5 Kyu- Using closures to share class state
+### 5 Kyu - Using closures to share class state
 
 #### Details:  
 
@@ -284,7 +284,7 @@ In this kata, I want you to write make a Cat constructor that takes arguments na
 
 ```
 
-### 4 Kyu- Dependency Injection
+### 4 Kyu - Dependency Injection
 
 #### Details:  
 
